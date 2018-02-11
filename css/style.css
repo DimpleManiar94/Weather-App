@@ -1,0 +1,25 @@
+
+h1, .center, .location{
+  padding: 30px;
+  color: white;
+}
+.weather, .weather-icon, .date{
+  padding: 10px;
+  color: white;
+}
+a{
+  color: white;
+}
+a:hover, a:active, a:visited, a:link{
+  text-decoration: none;
+  color: white;
+}
+.container-fluid{
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
+html, body{
+  height: 100%;
+}
